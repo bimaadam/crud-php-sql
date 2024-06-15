@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:kd_dosen;datatype:string,name:nama_dosen;datatype:string,name:kd_matkul;datatype:string,name:matakuliah;datatype:string" />
+</info>
